@@ -18,7 +18,7 @@ struct ContentView: View {
 //
 //            Spacer()
 //            Divider()
-            
+            // test
             // add rectangle top
             // add profile button
             // add swipe feature
